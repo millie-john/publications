@@ -69,7 +69,7 @@
         "publication": "University of Otago, 2019",
         "publication_year": 2019,
         "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "abstract": "The avian nidopallium caudolaterale (NCL) is considered homologous to the primate prefrontal cortex (PFC). Although the role of the PFC in executive functions is well established, the role of the NCL remains relatively unknown. The aim of the current thesis was to clarify the role of the NCL in two executive functions. The first was working memory, which is the ability to maintain and manipulate information across time. The second was serial-order behaviour, which is the execution of a series of behaviours in a sequential order. /nThe role of the NCL in working memory was examined by recording neurons from the NCL of pigeons trained on delayed matching-to-sample (DMS) tasks across two experiments, with either 3, 6, or 12 sec delay periods. In the first experiment we found delay activity represents a neural correlate of the to-be-remembered stimulus, however activity waned across the period. In the second experiment we examined the possibility that delay activity represents a neural correlate of temporal information, as well as the functional significance of such activity. We found no evidence of either temporal coding or a functional relationship between delay activity and behavioural performance. /nThe role of the NCL in serial-order behaviour, was examined by using tetrodotoxin (TTX) to temporarily lesion the region in pigeons trained on a four-item externally ordered (EO) serial-order task. Performance decreased significantly following TTX infusions, however the behavioural deficit could not be explained by a breakdown in sequencing or serial-order behaviour, and was more likely the result of a more generalised deficit such as decreased inhibition. /nTo clarify the role of the NCL in serial-order behaviour we then trained pigeons to complete three-item EO or internally ordered (IO) tasks, and recorded activity from NCL neurons to determine whether the NCL codes ordinal knowledge, a mechanism crucial for successful serial-order behaviour. We found many neurons that represented a neural correlate for ordinal position during the IO but not EO task, supporting the view that the NCL is involved in serial-order behaviour, at least with respect to IO tasks. The absence of ordinal coding during the EO task could be explained by the different strategies that pigeons adopt between EO and IO tasks, therefore we cannot rule out the possibility that the NCL codes ordinal knowledge in an EO task. /nTaken together, we show the NCL is critical for both working memory and serial-order behaviour, at least with respect to IO sequences. Although it is possible that the NCL codes specific task information across a multitude of tasks, it is much more likely that the NCL codes underlying mechanisms that can account for the involvement across many tasks. Much like the primate PFC, the NCL may process information in a top-down manner by focusing attention on task relevant information for peripheral regions to code. To fully understand the role of NCL in various complex cognitive tasks, multiple brain regions will need to be examined simultaneously, enabling a complete analysis of what, how, and where information is maintained across the avian brain."
+        "abstract": "The avian nidopallium caudolaterale (NCL) is considered homologous to the primate prefrontal cortex (PFC). Although the role of the PFC in executive functions is well established, the role of the NCL remains relatively unknown. The aim of the current thesis was to clarify the role of the NCL in two executive functions. The first was working memory, which is the ability to maintain and manipulate information across time. The second was serial-order behaviour, which is the execution of a series of behaviours in a sequential order. \nThe role of the NCL in working memory was examined by recording neurons from the NCL of pigeons trained on delayed matching-to-sample (DMS) tasks across two experiments, with either 3, 6, or 12 sec delay periods. In the first experiment we found delay activity represents a neural correlate of the to-be-remembered stimulus, however activity waned across the period. In the second experiment we examined the possibility that delay activity represents a neural correlate of temporal information, as well as the functional significance of such activity. We found no evidence of either temporal coding or a functional relationship between delay activity and behavioural performance. \nThe role of the NCL in serial-order behaviour, was examined by using tetrodotoxin (TTX) to temporarily lesion the region in pigeons trained on a four-item externally ordered (EO) serial-order task. Performance decreased significantly following TTX infusions, however the behavioural deficit could not be explained by a breakdown in sequencing or serial-order behaviour, and was more likely the result of a more generalised deficit such as decreased inhibition. \nTo clarify the role of the NCL in serial-order behaviour we then trained pigeons to complete three-item EO or internally ordered (IO) tasks, and recorded activity from NCL neurons to determine whether the NCL codes ordinal knowledge, a mechanism crucial for successful serial-order behaviour. We found many neurons that represented a neural correlate for ordinal position during the IO but not EO task, supporting the view that the NCL is involved in serial-order behaviour, at least with respect to IO tasks. The absence of ordinal coding during the EO task could be explained by the different strategies that pigeons adopt between EO and IO tasks, therefore we cannot rule out the possibility that the NCL codes ordinal knowledge in an EO task. \nTaken together, we show the NCL is critical for both working memory and serial-order behaviour, at least with respect to IO sequences. Although it is possible that the NCL codes specific task information across a multitude of tasks, it is much more likely that the NCL codes underlying mechanisms that can account for the involvement across many tasks. Much like the primate PFC, the NCL may process information in a top-down manner by focusing attention on task relevant information for peripheral regions to code. To fully understand the role of NCL in various complex cognitive tasks, multiple brain regions will need to be examined simultaneously, enabling a complete analysis of what, how, and where information is maintained across the avian brain."
     },
     {
         "title": "Effects of nidopallium caudolaterale inactivation on serial-order behavior in pigeons (Columba livia)",
@@ -138,7 +138,161 @@
       "title": "Introspection and anecdotes won't prove what animals are thinking and feeling",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Y0pCki6q_DkC",
       "authors": "M Colombo, M Johnston",
-      "publication": "Animal Sentience 1 (2), 3, 2016",
+      "publication": "Animal Sentience 1 (2), 3, 2016",[
+        {
+            "title": "Crows flexibly apply statistical inferences based on previous experience",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:_FxGoFyzp5QC",
+            "authors": "M Johnston, KF Brecht, A Nieder",
+            "publication": "Current Biology, 2023",
+            "publication_year": 2023,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "Statistical inference, the ability to use limited information to draw conclusions about the likelihood of an event, is critical for decision-making during uncertainty. The ability to make statistical inferences was thought to be a uniquely human skill requiring verbal instruction and mathematical reasoning. However, basic inferences have been demonstrated in both preliterate and pre-numerate individuals, as well as non-human primates. More recently, the ability to make statistical inferences has been extended to members outside of the primate lineage in birds. True statistical inference requires subjects use relative rather than absolute frequency of previously experienced events. Here, we show that crows can relate memorized reward probabilities to infer reward-maximizing decisions. Two crows were trained to associate multiple reward probabilities ranging from 10% to 90% to arbitrary stimuli. When later faced with the choice between various stimulus combinations, crows retrieved the reward probabilities associated with individual stimuli from memory and used them to gain maximum reward. The crows showed behavioral distance and size effects when judging reward values, indicating that the crows represented probabilities as abstract magnitudes. When controlling for absolute reward frequency, crows still made reward-maximizing choices, which is the signature of true statistical inference. Our study provides compelling evidence of decision-making by relative reward frequency in a statistical inference task."
+        },
+        {
+            "title": "Recursive sequence generation in crows",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:ufrVoPGSRksC",
+            "authors": "DA Liao, KF Brecht, M Johnston, A Nieder",
+            "publication": "Science Advances 8 (44), eabq3356, 2022",
+            "publication_year": 2022,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "Recursion, the process of embedding structures within similar structures, is often considered a foundation of symbolic competence and a uniquely human capability. To understand its evolution, we can study the recursive aptitudes of nonhuman animals. We adopted the behavioral protocol of a recent study demonstrating that humans and nonhuman primates grasp recursion. We presented sequences of bracket pair stimuli (e.g., [ ] and { }) to crows who were instructed to peck at training lists. They were then tested on their ability to transfer center-embedded structure to never-before-seen pairings of brackets. We reveal that crows have recursive capacities; they perform on par with children and even outperform macaques. The crows continued to produce recursive sequences after extending to longer and thus deeper embeddings. These results demonstrate that recursive capabilities are not limited to the primate genealogy and may have occurred separately from or before human symbolic competence in different animal taxa."
+        },
+        {
+            "title": "Nidopallium caudolaterale neuronal responses during serial-order behaviour in pigeons",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:u-x6o8ySG0sC",
+            "authors": "M Johnston, B Porter, M Colombo",
+            "publication": "Behavioural Brain Research 378, 112269, 2020",
+            "publication_year": 2020,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "Serial-order behaviour is the ability to complete a sequence of responses in order to obtain a reward. Serial-order tasks can be thought of as either externally-ordered (EO) such that the order of responses is predetermined, or internally-ordered (IO) such that the subject determines the order of responses from trial to trial. Ordinal knowledge (representation of first, second, or third etc.) is a key component of successful serial-order behaviour, and is considered a higher-order cognitive function. The nidopallium caudolaterale (NCL) is the avian equivalent to the prefrontal cortex, an area of the primate brain important for serial-order behaviour. The importance of the NCL for serial-order behaviour, however, is still unknown. In the current study, we trained pigeons to complete either three-item EO or IO tasks and recorded single-neuron activity from the NCL to determine whether neurons in the NCL code ordinal knowledge. Our results support the view that the NCL is involved in serial-order behaviour by coding ordinal position, at least with respect to the IO task. The absence of any ordinal coding during the EO task could be explained by the different strategies that birds adopt between the EO and IO tasks."
+        },
+        {
+            "title": "The effects of hippocampal and area parahippocampalis lesions on the processing and retention of serial-order behavior, autoshaping, and spatial behavior in pigeons",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:UeHWp8X0CEIC",
+            "authors": "M Johnston, D Scarf, A Wilson, J Millar, A Bartonicek, M Colombo",
+            "publication": "Hippocampus, 2020",
+            "publication_year": 2020,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "We examined the role of the avian hippocampus and area parahippocampalis in serial-order behavior and a variety of other tasks known to be sensitive to hippocampal damage in mammals. Damage to the hippocampus and area parahippocampalis caused impairments in autoshaping and performance on an analogue of a radial-arm maze task, but had no effect on acquisition of 2-item, 3-item, and 4-item serial-order lists. Additionally, the lesions had no effect on the retention of 3-items lists, or on the ability to perform novel derived lists composed of elements from lists they had previously learned. The impairments in autoshaping and spatial behavior are consistent with the findings in mammals. The absence of impairments on the serial-order task may also be consistent once one considers that damage to the hippocampus in mammals seems to affect more internally-organized rather than externally-organized serial-order tasks. Together, the findings support the view that the avian hippocampal complex serves a function very similar to the mammalian hippocampus, a finding that is interesting given that the architecture of the avian hippocampus differs dramatically from that of the mammalian hippocampus."
+        },
+        {
+            "title": "Delay activity in the Wulst of pigeons (Columba livia) represents correlates of both sample and reward information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:2osOgNQ5qMEC",
+            "authors": "C Anderson, M Johnston, EJ Marrs, B Porter, M Colombo",
+            "publication": "Neurobiology of Learning and Memory, 107214, 2020",
+            "publication_year": 2020,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "The avian Wulst is the pallial (analogous to mammalian cortex) termination point of the thalamofugal pathway, one of two main visual pathways in birds, and is considered to be equivalent to primate striate cortex. We recorded neuronal activity from the Wulst in pigeons during two versions of a delayed matching-to-sample procedure. Two birds were trained on a common outcomes (CO) procedure, in which correct responses following both the skateboarder and the flower stimuli were associated with reward. Two other birds were trained on a differential outcomes (DO) procedure in which correct responses following only the skateboarder stimulus were associated with reward, while correct responses following the flower stimulus were not rewarded. In line with previous studies, under CO conditions, and for both excitatory and inhibitory neurons, delay activity in the Wulst was significantly different from baseline activity following both sample stimuli, which may indicate that Wulst delay activity is a neural correlate of working memory for the sample stimulus. On the other hand, under DO conditions, Wulst delay activity appeared to be a neural correlate of the upcoming reward. We argue that Wulst neurons display flexibility in their encoding in that they can encode both sample and reward information, but may default to one type of coding over the other based on the demands of the task. The current study provides the first evidence that delay activity in the Wulst represents both a neural correlate for sample information as well as reward information."
+        },
+        {
+            "title": "Delay Neurons: Comparative Overview",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:zYLM7Y9cAGgC",
+            "authors": "M Johnston, B Porter, M Colombo",
+            "publication": "Encyclopedia of Animal Cognition and Behavior, 1-8, 2019",
+            "publication_year": 2019,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "In this encyclopedia chapter (Encyclopedia of Animal Cognition and Behavior), we examine delay activity from a comparative perspective. Delay neurons are found not only in humans, but also in all nonhuman species examined, including primates, birds, and rodents. In all species, delay neurons have been identified in sensory-specific regions such as visual and auditory areas, areas that are important for processing elements of stimuli to be remembered. As delay neurons are thought to represent memory, much research has also focused on sensory integration regions thought to be crucial for executive functioning, such as the prefrontal cortices, hippocampus, and their homologues in other species."
+        },
+        {
+            "title": "Delay activity in pigeon nidopallium caudolaterale during a variable-delay memory task",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:YsMSGLbcyi4C",
+            "authors": "M Johnston, B Porter, M Colombo",
+            "publication": "Behavioral Neuroscience 133 (6), 563, 2019",
+            "publication_year": 2019,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "Neurons in the pigeon nidopallium caudolaterale (NCL) are important for the maintenance of information across delays as long as 3 s. In the current study, we recorded neural activity from the avian NCL of 3 birds trained on a working memory task with three different delay lengths intermixed within a session. We found that when the birds are unable to predict the upcoming delay length there is no evidence that NCL cells engage in temporal coding. Furthermore, delay activity did not differ between correct and incorrect trials. Both findings have implications for the function of delay activity and its role in supporting working memory."
+        },
+        {
+            "title": "The Role of the Pigeon Nidopallium Caudolaterale in Working Memory and Serial-Order Behaviour",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:9yKSN-GCB0IC",
+            "authors": "M Johnston",
+            "publication": "University of Otago, 2019",
+            "publication_year": 2019,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": "The avian nidopallium caudolaterale (NCL) is considered homologous to the primate prefrontal cortex (PFC). Although the role of the PFC in executive functions is well established, the role of the NCL remains relatively unknown. The aim of the current thesis was to clarify the role of the NCL in two executive functions. The first was working memory, which is the ability to maintain and manipulate information across time. The second was serial-order behaviour, which is the execution of a series of behaviours in a sequential order. \nThe role of the NCL in working memory was examined by recording neurons from the NCL of pigeons trained on delayed matching-to-sample (DMS) tasks across two experiments, with either 3, 6, or 12 sec delay periods. In the first experiment we found delay activity represents a neural correlate of the to-be-remembered stimulus, however activity waned across the period. In the second experiment we examined the possibility that delay activity represents a neural correlate of temporal information, as well as the functional significance of such activity. We found no evidence of either temporal coding or a functional relationship between delay activity and behavioural performance. \nThe role of the NCL in serial-order behaviour, was examined by using tetrodotoxin (TTX) to temporarily lesion the region in pigeons trained on a four-item externally ordered (EO) serial-order task. Performance decreased significantly following TTX infusions, however the behavioural deficit could not be explained by a breakdown in sequencing or serial-order behaviour, and was more likely the result of a more generalised deficit such as decreased inhibition. \nTo clarify the role of the NCL in serial-order behaviour we then trained pigeons to complete three-item EO or internally ordered (IO) tasks, and recorded activity from NCL neurons to determine whether the NCL codes ordinal knowledge, a mechanism crucial for successful serial-order behaviour. We found many neurons that represented a neural correlate for ordinal position during the IO but not EO task, supporting the view that the NCL is involved in serial-order behaviour, at least with respect to IO tasks. The absence of ordinal coding during the EO task could be explained by the different strategies that pigeons adopt between EO and IO tasks, therefore we cannot rule out the possibility that the NCL codes ordinal knowledge in an EO task. \nTaken together, we show the NCL is critical for both working memory and serial-order behaviour, at least with respect to IO sequences. Although it is possible that the NCL codes specific task information across a multitude of tasks, it is much more likely that the NCL codes underlying mechanisms that can account for the involvement across many tasks. Much like the primate PFC, the NCL may process information in a top-down manner by focusing attention on task relevant information for peripheral regions to code. To fully understand the role of NCL in various complex cognitive tasks, multiple brain regions will need to be examined simultaneously, enabling a complete analysis of what, how, and where information is maintained across the avian brain."
+        },
+        {
+            "title": "Effects of nidopallium caudolaterale inactivation on serial-order behavior in pigeons (Columba livia)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:eQOLeE2rZwMC",
+            "authors": "M Johnston, AN Clarkson, EK Gowing, D Scarf, M Colombo",
+            "publication": "Journal of neurophysiology 120 (3), 1143-1152, 2018",
+            "publication_year": 2018,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        },
+        {
+            "title": "Pigeons (Columba livia) learn a four-item list by trial and error",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "D Scarf, M Johnston, M Colombo",
+            "publication": "Journal of Comparative Psychology 132 (3), 234, 2018",
+            "publication_year": 2018,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        },
+        {
+            "title": "Entopallium",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:W7OEmFMy1HYC",
+            "authors": "M Johnston, M Colombo",
+            "publication": null,
+            "publication_year": 2017,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        },
+        {
+            "title": "Neural correlates of sample-coding and reward-coding in the delay activity of neurons in the entopallium and nidopallium caudolaterale of pigeons (Columba livia)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:WF5omc3nYNoC",
+            "authors": "M Johnston, C Anderson, M Colombo",
+            "publication": "Behavioural brain research 317, 382-392, 2017",
+            "publication_year": 2017,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        },  
+        {
+            "title": "Pigeon NCL and NFL neuronal activity represents neural correlates of the sample.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:u5HHmVD_uO8C",
+            "authors": "M Johnston, C Anderson, M Colombo",
+            "publication": "Behavioral Neuroscience 131 (3), 213, 2017",
+            "publication_year": 2017,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        }, 
+        {
+            "title": "Prospective processing: Behavioural and neural evidence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:qjMakFHDy7sC",
+            "authors": "M Colombo, A Klarer, M Johnston, J Rose",
+            "publication": "Japanese Journal of Animal Psychology, 67.2. 2, 2017",
+            "publication_year": 2017,
+            "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "abstract": ""
+        }, 
+        {
+          "title": "Visual response properties of neurons in four areas of the avian pallium A Neuroethology, sensory, neural, and behavioral physiology",
+          "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:d1gkVwhDpl0C",
+          "authors": "D Scarf, M Stuart, M Johnston, M Colombo",
+          "publication": "Journal of Comparative Physiology A, 202, 235-245, 2016",
+          "publication_year": 2016,
+          "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "abstract": ""
+        },
+        {
+          "title": "Introspection and anecdotes won't prove what animals are thinking and feeling",
+          "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Y0pCki6q_DkC",
+          "authors": "M Colombo, M Johnston",
+          "publication": "Animal Sentience 1 (2), 3, 2016",
+          "publication_year": 2016,
+          "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "abstract": ""
+        },
+        {
+          "title": "Examining the Underlying Mechanisms of the Differential Outcomes Effect in Pigeons",
+          "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:IjCSPb-OGe4C",
+          "authors": "M Johnston",
+          "publication": "University of Otago, 2016",
+          "publication_year": 2016,
+          "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "abstract": ""
+        }
+      ]
       "publication_year": 2016,
       "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "abstract": ""
