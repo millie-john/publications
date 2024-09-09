@@ -1,33 +1,155 @@
 [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae cipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utcipit recusandae consequuntur expedita et cum\nreprehenderit molestiae utconsequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-  },
-  {
-    "title": "Pigeons (Columba livia) learn a four-item list by trial and error",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Tyk-4Ss8FVUC",
-    "authors": "D Scarf, M Johnston, M Colombo",
-    "publication": "Journal of Comparative Psychology 132 (3), 234, 2018",
-    "publication_year": 2018,
-    "cited_by_count": 6,
-    "snippet": "The aim of the current study was to assess whether pigeons could acquire a four-item list by trial and error. Pigeons received either extensive list training prior to being tested on a novel four-item list (i.e., the full-training group) or very limited training (i.e., the limited-training group)... "
-  },
-  {
-    "title": "Pigeons (Columba livia) learn a four-item",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Tyk-4Ss8FVUC",
-    "authors": "D Scarf, M Johnston, M Colombo",
-    "publication": "Journal of Comparative Psychology 132 (3), 234, 2018",
-    "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "publication_year": 2018,
-    "cited_by_count": 6,
-    "abstract": "The aim of the current study was to assess whether pigeons could acquire a four-item list by trial and error. Pigeons received either extensive list training prior to being tested on a novel four-item list (i.e., the full-training group) or very limited training (i.e., the limited-training group). Specifically, subjects in the full-training group were trained to acquire a large set of two-item lists by trial and error, then a large set of three-item lists, and finally a large set of four-item lists. In addition, within each set, the number of training phases was gradually reduced. In contrast, the limited-training group were trained on a single four-item list prior to testing. Only one of the eight subjects (12.5%) in the limited-training group learned the novel four-item list. In contrast, all five subjects (100%) in the full-training group learned the novel four-item list. We suggest that the difference between groups reflects the fact that subjects in the full-training group acquired a learning set over the course of their extensive training. The current study is the first to demonstrate pigeons can learn a four-item list without phased training."
-  }
-]
+    {
+        "title": "Crows flexibly apply statistical inferences based on previous experience",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:_FxGoFyzp5QC",
+        "authors": "M Johnston, KF Brecht, A Nieder",
+        "publication": "Current Biology, 2023",
+        "publication_year": 2023,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Recursive sequence generation in crows",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:ufrVoPGSRksC",
+        "authors": "DA Liao, KF Brecht, M Johnston, A Nieder",
+        "publication": "Science Advances 8 (44), eabq3356, 2022",
+        "publication_year": 2022,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Nidopallium caudolaterale neuronal responses during serial-order behaviour in pigeons",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:u-x6o8ySG0sC",
+        "authors": "M Johnston, B Porter, M Colombo",
+        "publication": "Behavioural Brain Research 378, 112269, 2020",
+        "publication_year": 2020,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "The effects of hippocampal and area parahippocampalis lesions on the processing and retention of serial\u2010order behavior, autoshaping, and spatial behavior in pigeons",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:UeHWp8X0CEIC",
+        "authors": "M Johnston, D Scarf, A Wilson, J Millar, A Bartonicek, M Colombo",
+        "publication": "Hippocampus, 2020",
+        "publication_year": 2020,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Delay activity in the Wulst of pigeons (Columba livia) represents correlates of both sample and reward information",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:2osOgNQ5qMEC",
+        "authors": "C Anderson, M Johnston, EJ Marrs, B Porter, M Colombo",
+        "publication": "Neurobiology of Learning and Memory, 107214, 2020",
+        "publication_year": 2020,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Delay Neurons: Comparative Overview",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:zYLM7Y9cAGgC",
+        "authors": "M Johnston, B Porter, M Colombo",
+        "publication": "Encyclopedia of Animal Cognition and Behavior, 1-8, 2019",
+        "publication_year": 2019,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Delay activity in pigeon nidopallium caudolaterale during a variable-delay memory task.",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:YsMSGLbcyi4C",
+        "authors": "M Johnston, B Porter, M Colombo",
+        "publication": "Behavioral Neuroscience 133 (6), 563, 2019",
+        "publication_year": 2019,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "The Role of the Pigeon Nidopallium Caudolaterale in Working Memory and Serial-Order Behaviour",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:9yKSN-GCB0IC",
+        "authors": "M Johnston",
+        "publication": "University of Otago, 2019",
+        "publication_year": 2019,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Effects of nidopallium caudolaterale inactivation on serial-order behavior in pigeons (Columba livia)",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:eQOLeE2rZwMC",
+        "authors": "M Johnston, AN Clarkson, EK Gowing, D Scarf, M Colombo",
+        "publication": "Journal of neurophysiology 120 (3), 1143-1152, 2018",
+        "publication_year": 2018,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Pigeons (Columba livia) learn a four-item list by trial and error.",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Tyk-4Ss8FVUC",
+        "authors": "D Scarf, M Johnston, M Colombo",
+        "publication": "Journal of Comparative Psychology 132 (3), 234, 2018",
+        "publication_year": 2018,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Entopallium",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:W7OEmFMy1HYC",
+        "authors": "M Johnston, M Colombo",
+        "publication": null,
+        "publication_year": 2017,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },
+    {
+        "title": "Neural correlates of sample-coding and reward-coding in the delay activity of neurons in the entopallium and nidopallium caudolaterale of pigeons (Columba livia)",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:WF5omc3nYNoC",
+        "authors": "M Johnston, C Anderson, M Colombo",
+        "publication": "Behavioural brain research 317, 382-392, 2017",
+        "publication_year": 2017,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    },  
+    {
+        "title": "Pigeon NCL and NFL neuronal activity represents neural correlates of the sample.",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:u5HHmVD_uO8C",
+        "authors": "M Johnston, C Anderson, M Colombo",
+        "publication": "Behavioral Neuroscience 131 (3), 213, 2017",
+        "publication_year": 2017,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    }, 
+    {
+        "title": "Prospective processing: Behavioural and neural evidence",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:qjMakFHDy7sC",
+        "authors": "M Colombo, A Klarer, M Johnston, J Rose",
+        "publication": "Japanese Journal of Animal Psychology, 67.2. 2, 2017",
+        "publication_year": 2017,
+        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "abstract": ""
+    }, 
+    {
+      "title": "Visual response properties of neurons in four areas of the avian pallium A Neuroethology, sensory, neural, and behavioral physiology",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:d1gkVwhDpl0C",
+      "authors": "D Scarf, M Stuart, M Johnston, M Colombo",
+      "publication": "Journal of Comparative Physiology A, 202, 235-245, 2016",
+      "publication_year": 2016,
+      "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "abstract": ""
+    },
+    {
+      "title": "Introspection and anecdotes won't prove what animals are thinking and feeling",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:Y0pCki6q_DkC",
+      "authors": "M Colombo, M Johnston",
+      "publication": "Animal Sentience 1 (2), 3, 2016",
+      "publication_year": 2016,
+      "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "abstract": ""
+    },
+    {
+      "title": "Examining the Underlying Mechanisms of the Differential Outcomes Effect in Pigeons",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:IjCSPb-OGe4C",
+      "authors": "M Johnston",
+      "publication": "University of Otago, 2016",
+      "publication_year": 2016,
+      "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "abstract": ""
+    }
+  ]
