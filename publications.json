@@ -5,7 +5,7 @@
         "authors": "M Johnston, KF Brecht, A Nieder",
         "publication": "Current Biology, 2023",
         "publication_year": 2023,
-        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://images.unsplash.com/photo-1459609336665-6ef3866c8930?q=80&w=1746&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "abstract": "Statistical inference, the ability to use limited information to draw conclusions about the likelihood of an event, is critical for decision-making during uncertainty. The ability to make statistical inferences was thought to be a uniquely human skill requiring verbal instruction and mathematical reasoning. However, basic inferences have been demonstrated in both preliterate and pre-numerate individuals, as well as non-human primates. More recently, the ability to make statistical inferences has been extended to members outside of the primate lineage in birds. True statistical inference requires subjects use relative rather than absolute frequency of previously experienced events. Here, we show that crows can relate memorized reward probabilities to infer reward-maximizing decisions. Two crows were trained to associate multiple reward probabilities ranging from 10% to 90% to arbitrary stimuli. When later faced with the choice between various stimulus combinations, crows retrieved the reward probabilities associated with individual stimuli from memory and used them to gain maximum reward. The crows showed behavioral distance and size effects when judging reward values, indicating that the crows represented probabilities as abstract magnitudes. When controlling for absolute reward frequency, crows still made reward-maximizing choices, which is the signature of true statistical inference. Our study provides compelling evidence of decision-making by relative reward frequency in a statistical inference task."
     },
     {
@@ -14,7 +14,7 @@
         "authors": "DA Liao, KF Brecht, M Johnston, A Nieder",
         "publication": "Science Advances 8 (44), eabq3356, 2022",
         "publication_year": 2022,
-        "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://images.unsplash.com/photo-1524406898358-473504c7492f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "abstract": "Recursion, the process of embedding structures within similar structures, is often considered a foundation of symbolic competence and a uniquely human capability. To understand its evolution, we can study the recursive aptitudes of nonhuman animals. We adopted the behavioral protocol of a recent study demonstrating that humans and nonhuman primates grasp recursion. We presented sequences of bracket pair stimuli (e.g., [ ] and { }) to crows who were instructed to peck at training lists. They were then tested on their ability to transfer center-embedded structure to never-before-seen pairings of brackets. We reveal that crows have recursive capacities; they perform on par with children and even outperform macaques. The crows continued to produce recursive sequences after extending to longer and thus deeper embeddings. These results demonstrate that recursive capabilities are not limited to the primate genealogy and may have occurred separately from or before human symbolic competence in different animal taxa."
     },
     {
@@ -84,7 +84,7 @@
         "title": "Entopallium",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tdUoNiIAAAAJ&pagesize=100&citation_for_view=tdUoNiIAAAAJ:W7OEmFMy1HYC",
         "authors": "M Johnston, M Colombo",
-        "publication": null,
+        "publication": "Encyclopedia of animal cognition and behavior",
         "publication_year": 2017,
         "image": "https://images.unsplash.com/photo-1540382658444-5f53c7f12ac3?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "abstract": "The dorsal ventricular ridge (DVR) is the main body of mass that forms the avian telencephalon. The DVR contains the major pallial regions of the avian brain, including the nidopallium (N), mesopallium (M), arcopallium (A) and, nested among these areas, the entopallium (E). Based on its afferent and efferent projections, the effects of lesions to the area, and single-unit electrophysiological data, the E is a higher-order visual and motion processing structure and is considered analogous to some region of the primate extrastriate cortex."
